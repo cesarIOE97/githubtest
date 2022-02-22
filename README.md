@@ -1,2 +1,2 @@
-# githubtest
+# githubTest
 First steps on GitHub
